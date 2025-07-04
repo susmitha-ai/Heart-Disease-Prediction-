@@ -48,13 +48,7 @@ Bar plots for data distribution
 
 Confusion matrix for evaluation
 
-🚀 How to Run
-Clone the repository:
 
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/heart-disease-logistic-regression.git
 cd heart-disease-logistic-regression
 Install dependencies:
 
